@@ -132,7 +132,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.wrangler
+# .wrangler
 # wrangler.toml
 .dev.vars
 pnpm-lock.yaml
